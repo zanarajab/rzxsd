@@ -1,0 +1,6 @@
+{
+  "name": "Insiderforce — Kinetic Typography Video Editor",
+  "description": "Full-featured vertical 9:16 kinetic typography motion graphics video player and timeline editor with live editable text layers and replaceable assets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
